@@ -1,0 +1,65 @@
+
+.carousel-inner img{
+  width:100%;
+}
+.titles{
+  text-align:center;
+  font-weight:700;
+  font-size:40px;
+  margin:100px;
+}
+.abt_home_bg,
+.why_home_bg{
+  text-align:center;  
+}
+.abt_home_bg p,
+.why_home_bg p{
+  width:50%;
+  margin:auto;
+  text-align:justify;
+}
+.dev_btn{
+  padding:10px 25px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 0px;
+  border-top-right-radius: 50px;
+  border-top-left-radius:0px;
+  background-color: black;
+  color:white;
+  margin:50px;
+}
+.cat_home_bg img{
+    width:100%;
+}
+.zero_margin{
+  margin:0;
+}
+.zero_padding{
+  padding:0;  
+}
+.why_us_home_bg{
+  text-align:center;
+  background-color:rgb(219, 219, 219);
+}
+.why_us_home_bg h2{
+  padding-top:50px;
+}
+.why_us_home_bg p{
+  width:60%;
+  margin:auto;
+
+}
+
+footer{
+  text-align:center;
+}
+.social_icons a{
+  color:black !important;  
+  padding:10px;
+}
+.bg-light{
+  background-color: transparent;
+}
+.abt_container{
+  background-color:
+}
