@@ -1,65 +1,85 @@
-
-.carousel-inner img{
-  width:100%;
+.carousel-inner img {
+  width: 100%;
 }
-.titles{
-  text-align:center;
-  font-weight:700;
-  font-size:40px;
-  margin:100px;
+.titles {
+  text-align: center;
+  font-weight: 700;
+  font-size: 40px;
+  margin: 100px;
 }
 .abt_home_bg,
-.why_home_bg{
-  text-align:center;  
+.why_home_bg {
+  text-align: center;
 }
 .abt_home_bg p,
-.why_home_bg p{
-  width:50%;
-  margin:auto;
-  text-align:justify;
+.why_home_bg p {
+  width: 50%;
+  margin: auto;
+  text-align: justify;
 }
-.dev_btn{
-  padding:10px 25px;
+.dev_btn {
+  padding: 10px 25px;
   border-bottom-left-radius: 50px;
   border-bottom-right-radius: 0px;
   border-top-right-radius: 50px;
-  border-top-left-radius:0px;
+  border-top-left-radius: 0px;
   background-color: black;
-  color:white;
-  margin:50px;
+  color: white;
+  margin: 50px;
 }
-.cat_home_bg img{
-    width:100%;
+.cat_home_bg img {
+  width: 100%;
 }
-.zero_margin{
-  margin:0;
+.zero_margin {
+  margin: 0;
 }
-.zero_padding{
-  padding:0;  
+.zero_padding {
+  padding: 0;
 }
-.why_us_home_bg{
-  text-align:center;
-  background-color:rgb(219, 219, 219);
+.why_us_home_bg {
+  text-align: center;
+  background-color: rgb(219, 219, 219);
 }
-.why_us_home_bg h2{
-  padding-top:50px;
+.why_us_home_bg h2 {
+  padding-top: 50px;
 }
-.why_us_home_bg p{
-  width:60%;
-  margin:auto;
+.why_us_home_bg p {
+  width: 60%;
+  margin: auto;
+}
 
+footer {
+  text-align: center;
 }
-
-footer{
-  text-align:center;
+.social_icons a {
+  color: black !important;
+  padding: 10px;
 }
-.social_icons a{
-  color:black !important;  
-  padding:10px;
-}
-.bg-light{
+.bg-light {
   background-color: transparent;
 }
-.abt_container{
-  background-color:
+/* about page conatiner*/
+
+.abt_container {
+  background-color: #bbe2e9;
+  margin-top: 1rem;
+}
+.abt_container h1 {
+  font-size: 5em;
+  font-weight: 700;
+  color: white;
+}
+.abt_container p {
+  width: 70%;
+  margin-left: 10%;
+  padding-bottom: 200px;
+}
+
+/* newsletter */
+.nws_bg {
+  text-align: center;
+}
+.nws_bg form {
+  width: 50%;
+  margin: auto;
 }
